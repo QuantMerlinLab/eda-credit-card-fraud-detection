@@ -1,6 +1,6 @@
-# :Detective: EDA & Credit Card Fraud Detection
+# :detective: EDA & Credit Card Fraud Detection
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-## :Pushpin: Project Info
+## :pushpin: Project Info
 - **Author:** Merlin Kengmo Yonta
 - **Dataset:** [Kaggle - Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
 - **Status:** Completed
