@@ -8,7 +8,7 @@
 ## :memo: Project Description
 This project focuses on analyzing banking transactions to identify fraud patterns. It utilizes Exploratory Data Analysis (EDA) techniques and machine learning models to predict fraudulent transactions. The goal is to predict fraudulent transactions based on various features like transaction amount, time, and user information.
 ### Key Techniques Used
-#### :Bar chart: 1. Exploratory Data Analysis (EDA): 
+#### :Bar_chart: 1. Exploratory Data Analysis (EDA): 
 - To understand the data and identify potential patterns of fraud.
 #### 2. Logistic Regression: 
 - For binary classification (fraud vs. non-fraud).
