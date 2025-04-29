@@ -1,13 +1,13 @@
 # :detective: EDA & Credit Card Fraud Detection
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## :pushpin: Project Info
-- 1. **Author:** Merlin Kengmo Yonta
+- **Author:** Merlin Kengmo Yonta
 -  :mailbox_with_mail: Contact
 -  :e-mail: kengmoyontamerlin@gmail.com
 -  :link: [LinkedIn - Merlin Kengmo Yonta](https://www.linkedin.com/in/ton-nom-utilisateur)
-- 2. **Dataset:** [Kaggle - Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
-- 3. **Status:** Completed
-- 4. **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
+- **Dataset:** [Kaggle - Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
+- **Status:** Completed
+- **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
 ## :memo: Project Description
 This project focuses on analyzing banking transactions to identify fraud patterns. It utilizes Exploratory Data Analysis (EDA) techniques and machine learning models to predict fraudulent transactions. The goal is to predict fraudulent transactions based on various features like transaction amount, time, and user information.
 ### :brain: Key Techniques Used
