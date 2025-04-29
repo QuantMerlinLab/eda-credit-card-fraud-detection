@@ -4,7 +4,7 @@
 - 1. **Author:** Merlin Kengmo Yonta
 -  :mailbox_with_mail: Contact
 -  :e-mail: kengmoyontamerlin@gmail.com
--  :link: 🔗 [LinkedIn - Merlin Kengmo Yonta](https://www.linkedin.com/in/ton-nom-utilisateur)
+-  :link: [LinkedIn - Merlin Kengmo Yonta](https://www.linkedin.com/in/ton-nom-utilisateur)
 - 2. **Dataset:** [Kaggle - Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
 - 3. **Status:** Completed
 - 4. **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
@@ -37,7 +37,7 @@ This project focuses on analyzing banking transactions to identify fraud pattern
 - **ROC Curve and AUC (Area Under Curve)**: Evaluate model performance across different threshold values and handle imbalanced datasets effectively.
 ### :toolbox: Technologies Used
 - **Python 3**
-- **Pandas**! Data manipulation and analysis
+- **Pandas**: Data manipulation and analysis
 - **Matplotlib & Seaborn**: Data visualization
 - **Scikit-learn**: Machine learning modeling
 - **XGBoost**: Gradient boosting for improved performance
