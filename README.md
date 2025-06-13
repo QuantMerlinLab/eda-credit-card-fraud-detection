@@ -1,4 +1,5 @@
 # :detective: EDA & Credit Card Fraud Detection
+![Fraud Rate by U.S. State](https://github.com/votre-utilisateur/votre-depot/raw/main/fraud_map_usa.png)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## :pushpin: Project Info
 - **Author:** Merlin Kengmo Yonta
