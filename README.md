@@ -1,6 +1,6 @@
 # :detective: EDA & Credit Card Fraud Detection
 
-[Credit Cards Used in the US](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/us_credit_cards.jpg)
+![Credit Cards Used in the US](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/us_credit_cards.jpg)
 
 ![Fraud Rate by U.S. State](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/fraud_map_usa.png)
 
