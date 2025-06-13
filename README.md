@@ -1,5 +1,4 @@
 # :detective: EDA & Credit Card Fraud Detection
-
 ![Fraud Rate by U.S. State](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/fraud_map_usa.png)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
