@@ -5,8 +5,9 @@
 ![Fraud Rate by U.S. State](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/fraud_map_usa.png)
 
 ## 📜 License 
-[![MIT](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)  
-*See [LICENSE file](LICENSE) or [official MIT terms](https://opensource.org/license/MIT)*
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/blob/main/LICENSE)  
+**Copyright © 2025 - [QuantMerlinLab](https://github.com/QuantMerlinLab)**  
+▶ [Full license terms](https://opensource.org/license/MIT)
 
 ## :pushpin: Project Info
 ## :adult::computer: Author Info
