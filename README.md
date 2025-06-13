@@ -11,7 +11,7 @@
 -  :e-mail: kengmoyontamerlin@gmail.com
 -  :link: [LinkedIn - Merlin Kengmo Yonta](https://www.linkedin.com/in/ton-nom-utilisateur)
 -  ## Analyzed Data
--  **Processed Dataset**: [Download Processed Dataset](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/fraud_balanced_sorted.csv?download=true) 
+-  **Processed Dataset**: [View data in GitHub CSV Viewer](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/blob/main/fraud_balanced_sorted.csv) 
 - **Original Dataset**: [Kaggle - Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
 - **Status**: Completed
 - **Tools Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
