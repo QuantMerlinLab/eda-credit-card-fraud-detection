@@ -12,7 +12,7 @@
 -  :link: [LinkedIn - Merlin Kengmo Yonta](https://www.linkedin.com/in/ton-nom-utilisateur)
 -  ## Analyzed Data
 -  ### Interactive Analysis
--  **Processed Dataset**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1JERZA9lDleHtfkWC2h-qoCpkggBR61-W/view?usp=sharing) 
+-  **Processed Dataset**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][(https://drive.google.com/file/d/1JERZA9lDleHtfkWC2h-qoCpkggBR61-W/view?usp=sharing) ](https://drive.google.com/file/d/1JERZA9lDleHtfkWC2h-qoCpkggBR61-W/view?usp=sharing)
 - **Original Dataset**: [Kaggle - Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
 - **Status**: Completed
 - **Tools Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
