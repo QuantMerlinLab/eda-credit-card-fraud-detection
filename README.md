@@ -4,7 +4,11 @@
 
 ![Fraud Rate by U.S. State](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/fraud_map_usa.png)
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## 📜 License 
+This project is open-source under the [MIT License](https://opensource.org/license/MIT).  
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
+*Copyright © 2025 - [QuantMerlinLab](https://github.com/QuantMerlinLab)*
+
 ## :pushpin: Project Info
 ## :adult::computer: Author Info
 - Merlin Kengmo Yonta
