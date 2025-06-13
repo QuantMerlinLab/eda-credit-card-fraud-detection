@@ -6,7 +6,8 @@
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## :pushpin: Project Info
-- **Author**: Merlin Kengmo Yonta
+## :adult::computer: Author Info
+- Merlin Kengmo Yonta
 -  :mailbox_with_mail: Contact
 -  :e-mail: kengmoyontamerlin@gmail.com
 -  :link: [LinkedIn - Merlin Kengmo Yonta](https://www.linkedin.com/in/ton-nom-utilisateur)
