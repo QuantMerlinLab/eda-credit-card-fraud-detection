@@ -10,11 +10,13 @@ This project is open-source under the [MIT License](https://opensource.org/licen
 
 ## :pushpin: Project Info
 ## 👨‍💻 Author Info 
-
 **Merlin KENGMO YONTA**  
-📧 [kengmoyontamerlin@gmail.com](mailto:kengmoyontamerlin@gmail.com)  
-🔗 [LinkedIn – Merlin KENGMO YONTA](https://www.linkedin.com/in/merlin-kengmo-yonta)  
-📱 [WhatsApp](https://wa.me/237672718383?text=Bonjour%20Merlin%2C%20je%20viens%20de%20ton%20profil%20GitHub)
+### 📬 Contact
+Feel free to reach out to me via:
+- ✉️ Email: [kengmoyontamerlin@gmail.com](mailto:kengmoyontamerlin@gmail.com)  
+- 💬 WhatsApp: [Click here to message me](https://wa.me/237672718383?text=Hello%2C%20I%20found%20you%20through%20your%20GitHub%20README)  
+- 🌐 LinkedIn: [linkedin.com/in/Merlin-KENGMO-YONTA](https://linkedin.com/in/Merlin-KENGMO-YONTA)  
+> _Please mention the subject of your message so I can respond accordingly._
 
 -  ## Analyzed Data
 -  ### Interactive Analysis
