@@ -15,7 +15,7 @@ This project is open-source under the [MIT License](https://opensource.org/licen
 Feel free to reach out to me via:
 - ✉️ Email: [kengmoyontamerlin@gmail.com](mailto:kengmoyontamerlin@gmail.com)  
 - 💬 WhatsApp: [Click here to message me](https://wa.me/237672718383?text=Hello%2C%20I%20found%20you%20through%20your%20GitHub%20README)  
-- 🌐 LinkedIn: [linkedin.com/in/merlin-kengmo-yonta](https://linkedin.com/in/merlin-kengmo-yonta)  
+- 🌐 LinkedIn: [linkedin.com/in/merlin-kengmo-yonta](https://www.linkedin.com/in/merlin-kengmo-yonta-90bb64303/)  
 > _Please mention the subject of your message so I can respond accordingly._
 
 -  ## Analyzed Data
