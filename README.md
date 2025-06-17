@@ -9,11 +9,13 @@ This project is open-source under the [MIT License](https://opensource.org/licen
 *Copyright © 2025 - [QuantMerlinLab](https://github.com/QuantMerlinLab)* 
 
 ## :pushpin: Project Info
-## :adult::computer: Author Info
-- Merlin Kengmo Yonta
--  :mailbox_with_mail: Contact
--  :e-mail: kengmoyontamerlin@gmail.com
--  :link: [LinkedIn - Merlin Kengmo Yonta](https://www.linkedin.com/in/ton-nom-utilisateur)
+## 👨‍💻 Author Info 
+
+**Merlin KENGMO YONTA**  
+📧 [kengmoyontamerlin@gmail.com](mailto:kengmoyontamerlin@gmail.com)  
+🔗 [LinkedIn – Merlin KENGMO YONTA](https://www.linkedin.com/in/merlin-kengmo-yonta)  
+📱 [WhatsApp](https://wa.me/237672718383?text=Bonjour%20Merlin%2C%20je%20viens%20de%20ton%20profil%20GitHub)
+
 -  ## Analyzed Data
 -  ### Interactive Analysis
 -  **Processed Dataset**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1JERZA9lDleHtfkWC2h-qoCpkggBR61-W/view?usp=sharing). 
