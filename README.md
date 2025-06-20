@@ -1,7 +1,8 @@
 # :detective: EDA & Credit Card Fraud Detection
 
-![Credit Cards Used in the US](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/us_credit_cards.jpg)
-![Fraud Rate by U.S. State](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/fraud_map_usa.png)
+![Credit Cards Used in the US](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/images/us_credit_cards.jpg)
+![Fraud Rate by U.S. State](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/images/fraud_map_usa.png)
+
 
 ## 📜 License
 This project is open-source under the [MIT License](https://opensource.org/license/MIT).   
@@ -65,16 +66,22 @@ This project focuses on analyzing banking transactions to identify fraud pattern
 - Graphs and summary tables included for easy analysis.
 ### :dart: Results
 After training and evaluating the models, here are the performance metrics obtained:
-| Model                         | Accuracy | AUC Score |
-|-------------------------------|----------|-----------|
-| Logistic Regression           | XX%      | XX        |
-| Decision Tree                 | XX%      | XX        |
-| Ensemble Learning (XGBoost)   | XX%      | XX        |
+
+| Modèle               | Recall (classe 1) | Précision (classe 1) | F1-score | AUC (ROC) |
+|----------------------|-------------------|-----------------------|----------|-----------|
+| Decision Tree        | 0.9650            | 0.9690                | 0.9670   | 0.9908    |
+| Logistic Regression  | 0.8730            | 0.8880                | 0.8800   | 0.9600    |
+| Random Forest        | 0.9675            | 0.9770                | 0.9722   | 0.9955    |
+| Stacking             | 0.9640            | 0.9730                | 0.9685   | 0.9890    |
+| AdaBoost             | 0.9400            | 0.9490                | 0.9445   | 0.9840    |
+| Gradient Boosting    | 0.9745            | 0.9755                | 0.9750   | 0.9962    |
+| XGBoost              | **0.9775**        | **0.9760**            | **0.9767** | **0.9974** |
 
 ### :mag: Key Observations
-- Logistic Regression performed well on detecting [major trend you observe: e.g., majority class, clear boundary separation].
-- Decision Tree provided easy-to-interpret decision paths but showed some overfitting signs.
-- XGBoost achieved the best balance between bias and variance, giving the highest AUC score.
+- **XGBoost** offers the best balance between fraud detection and low false alarms.  
+- **Gradient Boosting** shows performance very close to XGBoost, with excellent sensitivity and precision.  
+- **Random Forest** provides a good trade-off between accuracy and interpretability, suitable for regulated environments.  
+- **Logistic Regression**, while interpretable, misses too many fraud cases (low recall) to be recommended in this high-risk context.
 
 ### :star2: Feature Importance (from XGBoost)
 The most influential features for detecting fraud were:
