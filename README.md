@@ -62,6 +62,10 @@ This project focuses on analyzing banking transactions to identify fraud pattern
 - Built an interactive dashboard using Dash (Python framework for web applications).
 - Visualizes fraud patterns across different features.
 - Graphs and summary tables included for easy analysis.
+  
+# Fraud Analysis Dashboard
+## 🚀 Live Application
+Access the deployed application: [Fraud Analysis Dashboard](https://fraud-analysis-dashboard-hiyr.onrender.com)
 ### :dart: Results
 After training and evaluating the models, here are the performance metrics obtained:
 
