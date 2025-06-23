@@ -239,4 +239,4 @@ def update_plot(threshold, xlim, plot_type, display_options, y_scale):
     return fig, stats_content
 
 if __name__ == '__main__':
-    app.run_server(host='0.0.0.0', port=int(os.environ.get('PORT', 8050)), debug=False)
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8050)), debug=False)
