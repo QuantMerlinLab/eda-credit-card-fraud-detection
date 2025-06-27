@@ -12,3 +12,10 @@
    - Description: Interactive fraud pattern analysis application by merchant category. Features filtering by minimum fraud rate and toggle between absolute count and percentage 
                   visualizations. Includes detailed statistics, business insights, and strategic recommendations for proactive risk management and fraud prevention optimization.
    - Status: ✅ Active
+     
+3. **Real-Time Fraud Monitoring Dashboard**
+   - Access the deployed application: [Realtime Fraud Monitoring](https://realtime-fraud-monitoring.onrender.com)
+   - Description: Real-time fraud monitoring dashboard analyzing temporal transaction patterns. Displays hourly fraud activity distribution with interactive visualizations 
+                  comparing normal vs fraudulent transactions. Identifies peak fraud times and provides insights for optimizing monitoring schedules and resource allocation during 
+                  high-risk periods.
+   - Status: ✅ Active
