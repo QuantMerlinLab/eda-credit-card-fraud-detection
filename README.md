@@ -1,6 +1,6 @@
 # :detective: EDA & Credit Card Fraud Detection
 ![Credit Cards Used in the US](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/images/us_credit_cards.jpg)
-![Fraud Rate by U.S. State](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/images/newplot_map.png)
+![Fraud Rate by U.S. State](https://github.com/QuantMerlinLab/eda-credit-card-fraud-detection/raw/main/images/fraud_map_usa.png)
 
 ## 📜 License
 This project is open-source under the [MIT License](https://opensource.org/license/MIT).   
