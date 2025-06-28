@@ -40,6 +40,10 @@
    - Description:  Monthly fraud detection analysis dashboard displaying transaction patterns and fraud occurrence across all months of the year. Features grouped histogram visualization comparing normal vs fraudulent transactions with interactive color-coded bars. Provides insights into seasonal fraud trends and monthly risk variations for strategic fraud prevention planning and resource allocation.
    - Status: ✅ Active
 
+8. **Monthly Fraud Detection Dashboard**
+   - Access the deployed application: [Monthly Dashboard](https://monthly-dashboard.onrender.com)
+   - Description: Advanced monthly fraud detection dashboard with comprehensive analytics featuring date range filtering, multiple chart types (grouped/stacked bars, line charts, area charts), fraud rate gauges, transaction heatmaps, and detailed statistics tables. Includes intelligent insights generation, root cause analysis, strategic business solutions, and ROI calculations for proactive fraud prevention and seasonal pattern identification.
+   - Status: ✅ Active
 
 
 
