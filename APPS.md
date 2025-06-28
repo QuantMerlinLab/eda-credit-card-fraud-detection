@@ -25,7 +25,10 @@
    - Description: Comprehensive hourly fraud analysis dashboard displaying transaction patterns and fraud rates throughout the day. Features dual visualization with stacked bar charts showing transaction volumes and line graphs tracking fraud percentages. Identifies critical high-risk periods (10PM-3AM) with detailed statistics table and actionable business insights for enhanced security implementation.
    - Status: ✅ Active
   
-5. 
+5. **Fraud Analysis by Day of the Week**:
+   - Access the deployed application:[Daily Analysis](https://daily-analysis-cknt.onrender.com)
+   - Description: Interactive daily fraud analysis dashboard examining transaction patterns across weekdays. Features multiple visualization modes (grouped histogram, fraud rate, comparison charts), customizable color schemes, and detailed statistics cards. Includes time evolution tracking and comprehensive metrics showing fraud distribution patterns throughout the week for strategic planning and resource allocation.
+   - - Status: ✅ Active
 
 
 
