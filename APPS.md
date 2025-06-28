@@ -13,7 +13,7 @@
                   visualizations. Includes detailed statistics, business insights, and strategic recommendations for proactive risk management and fraud prevention optimization.
    - Status: ✅ Active
      
-3. **Real-Time Fraud Monitoring Dashboard**
+3. **Real-Time Fraud Monitoring Dashboard**:
    - Access the deployed application: [Realtime Fraud Monitoring](https://realtime-fraud-monitoring.onrender.com)
    - Description: Real-time fraud monitoring dashboard analyzing temporal transaction patterns. Displays hourly fraud activity distribution with interactive visualizations 
      comparing normal vs fraudulent transactions. Identifies peak fraud times and provides insights for optimizing monitoring schedules and resource allocation during 
@@ -35,17 +35,20 @@
    - Description: Comprehensive fraud detection dashboard analyzing weekly patterns with multiple visualization modes including histograms, line charts, amount analysis, and fraud heatmaps. Features interactive day filtering, real-time statistics cards, and detailed data tables with conditional formatting. Provides strategic insights for identifying high-risk days and optimizing fraud prevention resources throughout the week.
    - Status: ✅ Active
 
-7. **Fraud Detection - Monthly Analysis**
+7. **Fraud Detection - Monthly Analysis**:
    - Access the deployed application: [Monthly Analysis](https://monthly-analysis.onrender.com)
    - Description:  Monthly fraud detection analysis dashboard displaying transaction patterns and fraud occurrence across all months of the year. Features grouped histogram visualization comparing normal vs fraudulent transactions with interactive color-coded bars. Provides insights into seasonal fraud trends and monthly risk variations for strategic fraud prevention planning and resource allocation.
    - Status: ✅ Active
 
-8. **Monthly Fraud Detection Dashboard**
+8. **Monthly Fraud Detection Dashboard**:
    - Access the deployed application: [Monthly Dashboard](https://monthly-dashboard.onrender.com)
    - Description: Advanced monthly fraud detection dashboard with comprehensive analytics featuring date range filtering, multiple chart types (grouped/stacked bars, line charts, area charts), fraud rate gauges, transaction heatmaps, and detailed statistics tables. Includes intelligent insights generation, root cause analysis, strategic business solutions, and ROI calculations for proactive fraud prevention and seasonal pattern identification.
    - Status: ✅ Active
 
-
+9. **Geographical Fraud Analysis Dashboard**:
+   - Access the deployed application: [Geographic Analysis](https://geographic-analysis.onrender.com)
+   - Description: Comprehensive geographical fraud analysis dashboard featuring interactive maps (scatter plots, choropleth, density, bubble maps), state-wise risk rankings, and geographic pattern detection. Includes advanced filtering by sample size, fraud type, and transaction amounts, with real-time insights generation, risk concentration metrics, and strategic action plans for geographic fraud prevention and resource deployment.
+   - Status: ✅ Active
 
 
 
