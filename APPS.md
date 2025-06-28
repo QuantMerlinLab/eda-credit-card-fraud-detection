@@ -50,6 +50,10 @@
    - Description: Comprehensive geographical fraud analysis dashboard featuring interactive maps (scatter plots, choropleth, density, bubble maps), state-wise risk rankings, and geographic pattern detection. Includes advanced filtering by sample size, fraud type, and transaction amounts, with real-time insights generation, risk concentration metrics, and strategic action plans for geographic fraud prevention and resource deployment.
    - Status: ✅ Active
 
+10. **Enhanced State Fraud Analysis**:
+   - Access the deployed application: [State Analysis](https://state-analysis.onrender.com)
+   - Description: Enhanced state-level fraud analysis dashboard with customizable choropleth maps, interactive color scales, and configurable text displays. Features top risk and safest state rankings, weighted national fraud rates, strategic decision frameworks, and executive-level insights with immediate action plans, resource allocation guidance, and ROI-focused recommendations for state-specific fraud prevention strategies.
+   - Status: ✅ Active
 
 
 
