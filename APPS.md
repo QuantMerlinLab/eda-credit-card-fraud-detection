@@ -28,7 +28,18 @@
 5. **Fraud Analysis by Day of the Week**:
    - Access the deployed application:[Daily Analysis](https://daily-analysis-cknt.onrender.com)
    - Description: Interactive daily fraud analysis dashboard examining transaction patterns across weekdays. Features multiple visualization modes (grouped histogram, fraud rate, comparison charts), customizable color schemes, and detailed statistics cards. Includes time evolution tracking and comprehensive metrics showing fraud distribution patterns throughout the week for strategic planning and resource allocation.
-   - - Status: ✅ Active
+   - Status: ✅ Active
+   
+6. **Fraud Detection Dashboard - Day of Week Analysis**:
+   - Access the deployed application: [Weekday Analysis](https://weekday-analysis.onrender.com)
+   - Description: Comprehensive fraud detection dashboard analyzing weekly patterns with multiple visualization modes including histograms, line charts, amount analysis, and fraud heatmaps. Features interactive day filtering, real-time statistics cards, and detailed data tables with conditional formatting. Provides strategic insights for identifying high-risk days and optimizing fraud prevention resources throughout the week.
+   - Status: ✅ Active
+  
+
+
+
+
+
 
 
 
