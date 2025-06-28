@@ -16,6 +16,18 @@
 3. **Real-Time Fraud Monitoring Dashboard**
    - Access the deployed application: [Realtime Fraud Monitoring](https://realtime-fraud-monitoring.onrender.com)
    - Description: Real-time fraud monitoring dashboard analyzing temporal transaction patterns. Displays hourly fraud activity distribution with interactive visualizations 
-                  comparing normal vs fraudulent transactions. Identifies peak fraud times and provides insights for optimizing monitoring schedules and resource allocation during 
-                  high-risk periods.
+     comparing normal vs fraudulent transactions. Identifies peak fraud times and provides insights for optimizing monitoring schedules and resource allocation during 
+     high-risk periods.
    - Status: ✅ Active
+
+4. **Fraud Analysis by Hour**:
+   - Access the deployed application: [Hourly Analysis](https://hourly-analysis.onrender.com)
+   - Description: Comprehensive hourly fraud analysis dashboard displaying transaction patterns and fraud rates throughout the day. Features dual visualization with stacked bar charts showing transaction volumes and line graphs tracking fraud percentages. Identifies critical high-risk periods (10PM-3AM) with detailed statistics table and actionable business insights for enhanced security implementation.
+   - Status: ✅ Active
+  
+5. 
+
+
+
+
+
