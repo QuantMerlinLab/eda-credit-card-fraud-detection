@@ -34,7 +34,11 @@
    - Access the deployed application: [Weekday Analysis](https://weekday-analysis.onrender.com)
    - Description: Comprehensive fraud detection dashboard analyzing weekly patterns with multiple visualization modes including histograms, line charts, amount analysis, and fraud heatmaps. Features interactive day filtering, real-time statistics cards, and detailed data tables with conditional formatting. Provides strategic insights for identifying high-risk days and optimizing fraud prevention resources throughout the week.
    - Status: ✅ Active
-  
+
+7. **Fraud Detection - Monthly Analysis**
+   - Access the deployed application: [Monthly Analysis](https://monthly-analysis.onrender.com)
+   - Description:  Monthly fraud detection analysis dashboard displaying transaction patterns and fraud occurrence across all months of the year. Features grouped histogram visualization comparing normal vs fraudulent transactions with interactive color-coded bars. Provides insights into seasonal fraud trends and monthly risk variations for strategic fraud prevention planning and resource allocation.
+   - Status: ✅ Active
 
 
 
